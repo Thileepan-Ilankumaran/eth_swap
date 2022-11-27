@@ -1,7 +1,7 @@
 # Instant ERC-20 Swap DEX
 ## Procedure to clone
 
-1. Clone this repository and type `npm install` to initialize repository. Install Node Js if not preinstalled.
+1. Clone this repository and type `npm install` to initialize repository. Install Node Js if not preinstalled. Add yarn by `npm install --global yarn`
 2. Download and add following pre-requisites 
 
 
